@@ -1,0 +1,22 @@
+{
+    "name": "ajay/content",
+    "description": "This package for testing in laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ajay",
+            "email": "ajay@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ajay\\content\\ContentServiceProvider"
+            ]
+        }
+    }
+}
