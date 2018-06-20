@@ -16,7 +16,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Ajay\\content\\ContentServiceProvider"
+                "Ajay\\Content\\ContentServiceProvider"
             ]
         }
     }
